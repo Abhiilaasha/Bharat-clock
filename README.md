@@ -1,2 +1,2 @@
 # Bharat-clock
-[Live Link](http://localhost:5174/)
+[Link](http://localhost:5174/)
