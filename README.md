@@ -3,4 +3,4 @@
 
 
 <h2> About </h2>
-<p> Simple clock made using react that shows curents time  :/ </p>
+<p> Simple clock made using react that shows curents time  :\ </p>
