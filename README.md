@@ -4,10 +4,11 @@
 
 <h2> About </h2>
 <p>   This project is a simple implementation of a Normal Bharat Clock using React. The clock displays the current time in the Normal Bharat Time Zone (IST - Indian Standard Time). </p>
-## Features
-
-- Displays the current time in the Normal Bharat Time Zone.
-- Built using React to demonstrate a basic clock application.
+<h2> Features  </h2>
+<ul>
+<li> Displays the current time in the Normal Bharat Time Zone.</li>
+<li> Built using React to demonstrate a basic clock application.</li>
+</ul>
 
 <h2> Acknowledgements </h2>
 <p>  This project was created as a learning exercise and was inspired by the concept of Normal Bharat Time. </p>
