@@ -1,5 +1,5 @@
 # Normal Bharat Clock - React
-[Link](http://localhost:5174/)
+[Link](https://6584758f3098fa1e88d5c148--melodic-nasturtium-e6448b.netlify.app/)
 
 
 <h2> About </h2>
